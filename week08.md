@@ -40,9 +40,15 @@ public static int[] twoSum(int[] nums,int target) {
 
 ### 2. Review
 > 英文学习
+---
 
+---
 ### 3. Tip
 > 工作知识点、技巧
 
+在日常开发中，有时需要抓取各种数据包，最近使用了[WireShark](https://www.wireshark.org/),支持多种平台，使用非常方便
+，配上这篇[博客](https://blog.csdn.net/chenzhisi/article/details/49814769),根据需要进行信息过滤
 ### 4. Share
 > 思考、总结、感悟
+
+公司是做交易所的，最近和市场运营的同事们交流，他们说了一句印象深刻的话：韭菜的记忆只有8秒
